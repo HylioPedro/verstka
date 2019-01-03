@@ -1,0 +1,93 @@
+
+.container{
+	padding:0 !important;
+}
+.navbar{
+	background-color: #f0f6f4;
+	height: 108px;
+}
+.navbar .btn{
+	background-color: #78bc61;
+	border:none;
+	color:white;
+	width: 130px;
+	height: 44px;
+}
+.navbar a{
+	color:#121920;
+}
+
+.hero {
+	margin-top: 204px;
+}
+
+.custom-control-label{
+	position: static !important;
+}
+.custom-control-input:checked~.custom-control-label::before{
+	background-color:#36c1ba !important;
+}
+.ontime label::before{
+	height: 40px;
+	width:40px;
+}
+.ontime label::after{
+	height: 40px;
+	width:40px;
+}
+.ontime{
+	padding-left: 25px !important;
+}
+.subscribe{
+	padding-left: 25px !important;
+}
+.subscribe label::before{
+	height: 40px;
+	width:40px;
+}
+.subscribe label::after{
+	height: 40px;
+	width:40px;
+}	
+.lead{
+
+}
+.check {
+	margin-top: 20px;
+}
+.cart{
+	margin-top: 42px;
+}
+.cart button{
+	width:260px;
+	height: 60px;
+	background-color: #78bc61;
+	color:white;
+}
+.price{
+	margin:0;	
+}
+.whatsimpleat{
+	background-color:#36c1ba;
+	padding-top: 100px;
+	padding-bottom: 97px;
+}
+.whysimpleat .card{
+	border: none;
+}
+.testimonials{
+	background-color: #f0f6f4;
+}
+.mainingrediants .card{
+	border: none;
+}
+.facts{
+	background-color: #f0f6f4;
+}
+.superfood{
+	background-color:#f0f6f4;
+}
+.calories{
+	background-color: white;
+	border-radius: 1%;
+}
